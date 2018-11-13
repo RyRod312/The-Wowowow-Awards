@@ -1,0 +1,48 @@
+body{
+    text-align: center; 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsuTRCe0cGhg5JQGnEuXf76bw2GQ5T2XHre0nYhgeh2taJdxk2Q");
+}
+img{
+    border: dotted 3px;
+    border-radius: 20% 20%;
+    box-shadow: -4px 3px black;
+}
+.Pics{
+    height: 300px;
+}
+h1{
+    font-family:'Share Tech Mono', monospace; 
+    color: #cccccc;
+}
+.best_game{
+    color: #b2cfff; 
+    font-family: 'Fredoka One', cursive;
+    text-decoration: underline;
+}
+.best_thing_nominees{
+    color: white;
+    text-align: left;
+    font-family: 'Fredoka One', cursive;
+}
+.winner{
+    color: gold; 
+    text-decoration: underline;
+}
+.best_movie{
+    font-family: 'Patrick Hand', cursive;
+    color: #72017a;
+    text-decoration: underline;
+}
+.MVP{
+    font-family: 'Permanent Marker', cursive;
+    color: #96062c;
+    text-decoration: underline;
+}
+.best_artist{
+     font-family: 'Abril Fatface', cursive; 
+     color: #217a62;
+     text-decoration: underline;
+}
+.JCole{
+    height: 300px;    
+}
